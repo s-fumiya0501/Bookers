@@ -22,8 +22,18 @@ p, ol, ul, td {
 
 a {
     color: #000;
-}/*
- * This is a manifest file that'll be compiled into application.css, which will include all the files
+}
+
+#notice {
+    color: green;
+}
+
+
+th {
+    padding-bottom: 5px;
+}
+
+/* This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
  *
  * Any CSS and SCSS file within this directory, lib/assets/stylesheets, or any plugin's
